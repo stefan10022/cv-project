@@ -1,0 +1,11 @@
+.single-field-form {
+  display: flex;
+  width: 33%;
+  justify-content: space-between;
+
+  .input-group {
+    label {
+        margin-right: 10px;
+    }
+  }
+}
